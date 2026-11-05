@@ -1,5 +1,6 @@
 # Netflix-bilingual-subtitles-on-Mac-Safari
 一個好用的Netflix雙語字幕
+(文件在user.js)
 使用方法如下:
 1.去app store下载userscripts
 

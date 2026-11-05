@@ -14,7 +14,7 @@
 
 ![qOVMO4bekOAyuzjIdbC6RVQXwO7r1Tq5.png](https://cdn.nodeimage.com/i/qOVMO4bekOAyuzjIdbC6RVQXwO7r1Tq5.png)
 
-4.把整个文件拖进右边框框保存即可
+4.复制整个user.js到右边框框保存即可
 打开你要看的影片之后打开netflix的字幕点一下英文点一下中文，这样他就会抓到字幕数据就可正常使用
 所有的参数都可调整，要用简体中文的改成zh_CN就行
 参数注解:
